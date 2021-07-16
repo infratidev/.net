@@ -1,0 +1,39 @@
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+td {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h3 {
+    display: block;
+    font-size: 1.05em;
+    margin-block-start: 0em;
+    margin-block-end: -0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    vertical-align:middle;
+}
+
+element.style {
+    color: #3E7CFF;
+}
+
+#inicio {
+    height: 25px;
+    display: block;
+    margin: 0 auto;
+    font-size: 1.03em;
+}
+
